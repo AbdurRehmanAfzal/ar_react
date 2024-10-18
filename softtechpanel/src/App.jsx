@@ -1,4 +1,4 @@
 export const App = () => {
 
-  return <h1>My first React Web Page</h1>
+  return <h1>REACT WEBSITE</h1>
 };
