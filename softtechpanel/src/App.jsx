@@ -1,2 +1,2 @@
 export const App = () => {
-  return <h1>abcdef</h1>
+  return <h1></h1>
